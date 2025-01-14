@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-electron-app/static/css/main.fe0bb2fd.css",
+    "main.js": "/my-electron-app/static/js/main.8ae9fa68.js",
+    "index.html": "/my-electron-app/index.html",
+    "main.fe0bb2fd.css.map": "/my-electron-app/static/css/main.fe0bb2fd.css.map",
+    "main.8ae9fa68.js.map": "/my-electron-app/static/js/main.8ae9fa68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe0bb2fd.css",
+    "static/js/main.8ae9fa68.js"
+  ]
+}
