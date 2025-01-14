@@ -40,7 +40,7 @@ function createWindow() {
     },
   });
 
-  win.loadURL('http://localhost:3000'); // URL вашего приложения React или путь к HTML-файлу
+  win.loadURL('https://molchanovem.github.io/react_app/'); // URL вашего приложения React или путь к HTML-файлу
 }
 
 // Обработка события готовности приложения
